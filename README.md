@@ -1,5 +1,5 @@
 ## simplewebsite html website 
-A simple html website of hello world using the bash script
+A simple html website of hello world using bash script
 
 -------------------------------------------------- 
 
