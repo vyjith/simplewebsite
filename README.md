@@ -86,7 +86,3 @@ bc_main
 exit
 ```
 
-## Sample output is the following
--------------------------------------------------- 
-
-![alt text](https://i.ibb.co/qs0hxWZ/image.png)
