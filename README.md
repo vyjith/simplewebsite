@@ -69,7 +69,7 @@ bc_httpd(){
 bc_website(){
 
 cat > /var/www/html/index.html << EOF
-Hell World!
+Hello World!
 EOF
 }
 
