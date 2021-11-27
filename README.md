@@ -1,4 +1,7 @@
 ## simplewebsite html website 
+[![Builds](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+
 A simple html website of hello world using bash script
 
 -------------------------------------------------- 
